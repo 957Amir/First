@@ -7,7 +7,7 @@
         color:blue;
     }
     h1 {
-        color:black;
+        color:blue;
         font-style:italic;
         font-weight:bold;
     }
